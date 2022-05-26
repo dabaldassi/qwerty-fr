@@ -17,4 +17,4 @@ Keyboard layout for qwerty with french accent
 
 ### Shift + AltGr
 
-![ShiftAlt](qwertyfrShiftAltGr.jpg)
+![ShiftAlt](qwertyfrShftAltGr.jpg)
